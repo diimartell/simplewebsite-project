@@ -27,7 +27,7 @@ O projeto consiste na criação de uma página web simples, com adição de um f
 
 
 
-- Para conferir o projeto completo, basta clicar neste link: 
+- Para conferir o projeto completo, basta clicar neste link: https://diimartell.github.io/simplewebsite-project/
 
 
 - Ao clicar em "Contato", você terá acesso ao meu Linktree, que contém todas as minhas redes sociais principais.
