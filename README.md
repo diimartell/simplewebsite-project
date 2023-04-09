@@ -14,7 +14,7 @@ O projeto consiste na criação de uma página web simples, com adição de um f
 ## Preview
 
 
-- Este é o resultado final do formulário de Login:
+- Clicando em "Login", é possível ver o resultado final do formulário de Login:
 
 
 ![foto2](https://user-images.githubusercontent.com/107155342/219877361-01287c0c-f901-4880-9df7-45124114a892.png)
