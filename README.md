@@ -1,4 +1,4 @@
-# simplewebsite-project
+# Página Web Login <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6681/6681204.png" />
 
 
 O projeto consiste na criação de uma página web simples, com adição de um formulário de Login e um formulário para Registro.
@@ -6,9 +6,7 @@ O projeto consiste na criação de uma página web simples, com adição de um f
 
 ## Tecnologias usadas
 
-
-- HTML5
-- CSS3
+<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 
 ## Preview
